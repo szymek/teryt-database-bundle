@@ -19,7 +19,7 @@
         "symfony/console": "^3.4|^4.0|^5.0",
         "symfony/dom-crawler": "^3.4|^4.0|^5.0",
         "symfony/css-selector": "^3.4|^4.0|^5.0",
-        "doctrine/common": "^2.6",
+        "doctrine/common": "^2.6|^3",
         "hobnob/xml-stream-reader": "^1.0",
         "doctrine/doctrine-fixtures-bundle": "^3.1",
         "robrichards/wse-php": "^2.0",
