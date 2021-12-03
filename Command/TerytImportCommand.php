@@ -11,8 +11,8 @@ declare(strict_types=1);
 
 namespace FSi\Bundle\TerytDatabaseBundle\Command;
 
-use Doctrine\Common\Persistence\ManagerRegistry;
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ManagerRegistry;
+use Doctrine\Persistence\ObjectManager;
 use FSi\Bundle\TerytDatabaseBundle\Teryt\Import\NodeConverter;
 use Hobnob\XmlStreamReader\Parser;
 use SimpleXMLElement;
