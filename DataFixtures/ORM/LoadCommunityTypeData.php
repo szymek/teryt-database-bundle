@@ -13,7 +13,7 @@ namespace FSi\Bundle\TerytDatabaseBundle\DataFixtures\ORM;
 
 use Doctrine\Bundle\FixturesBundle\FixtureGroupInterface;
 use Doctrine\Bundle\FixturesBundle\ORMFixtureInterface;
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use FSi\Bundle\TerytDatabaseBundle\Entity\CommunityType;
 
 class LoadCommunityTypeData implements ORMFixtureInterface, FixtureGroupInterface
