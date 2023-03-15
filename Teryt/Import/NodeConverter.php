@@ -11,7 +11,7 @@ declare(strict_types=1);
 
 namespace FSi\Bundle\TerytDatabaseBundle\Teryt\Import;
 
-use Doctrine\Common\Persistence\ObjectManager;
+use Doctrine\Persistence\ObjectManager;
 use SimpleXMLElement;
 
 abstract class NodeConverter
