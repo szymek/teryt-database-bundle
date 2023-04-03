@@ -13,6 +13,7 @@ namespace FSi\Bundle\TerytDatabaseBundle;
 
 use FSi\Bundle\TerytDatabaseBundle\DependencyInjection\FSITerytDbExtension;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
+use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 
 /**
  * @author Norbert Orzechowicz <norbert@fsi.pl>
