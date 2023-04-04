@@ -12,6 +12,7 @@ declare(strict_types=1);
 namespace FSi\Bundle\TerytDatabaseBundle;
 
 use FSi\Bundle\TerytDatabaseBundle\DependencyInjection\FSITerytDbExtension;
+use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 use Symfony\Component\HttpKernel\Bundle\Bundle;
 use Symfony\Component\DependencyInjection\Extension\ExtensionInterface;
 
